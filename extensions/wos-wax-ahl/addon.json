@@ -1,0 +1,11 @@
+{
+	"title"		:	"[wOS] Animation Extension - Action Half-life",
+	"type"		:	"model",
+	"tags"		:	[ "fun", "roleplay" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
